@@ -1,5 +1,7 @@
 # Netflix Business Data Analysis - Case Study
 
+[Full Business Report](https://github.com/SaiSurajMatta/Netflix-Data-Case-Study/blob/main/NetFlix%20Business%20Data%20Analysis%20-%20Case%20Study.pdf)
+
 ## Introduction
 This case study explores Netflix's data to derive actionable insights aimed at refining its content strategy and enhancing viewer engagement globally. By analyzing various aspects such as viewer preferences, content types, genres, directors, actors, production countries, timing of content additions, and content ratings, this study aims to provide valuable recommendations to optimize Netflix's content library.
 
